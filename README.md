@@ -48,3 +48,9 @@ More projects coming soon...
 > *"I build software to solve real problems — not just to ship features."*
 
 ---
+
+🛠️ Available for freelance projects — full-stack apps, developer tools, or clean UI builds.  
+Let’s build something useful.
+
+---
+
