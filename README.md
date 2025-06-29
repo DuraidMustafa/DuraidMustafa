@@ -20,7 +20,6 @@ I love working with **Next.js**, **TypeScript**, and **Tailwind CSS**, and belie
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
 
@@ -28,35 +27,18 @@ I love working with **Next.js**, **TypeScript**, and **Tailwind CSS**, and belie
 
 ## 🚀 Projects
 
-### 🧠 [CodeCrate](https://github.com/duraidmustafa/codecrate)
+### 🧠 [CodeCrate](https://github.com/Programmer551/CodeCrate)
 > Your personal code snippet vault — searchable, organized, and built with devs in mind.
 
 More projects coming soon...
 
 ---
 
-## 📚 Currently Learning
-
-- Building better full-stack app architectures
-- Auth flows with Clerk and server-side auth
-- Advanced Prisma features and relational databases
-- UI polish with Tailwind CSS + ShadCN
-
----
-
-## 🌐 Let's Connect
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/duraidmustafa_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duraidmustafa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ffffff.svg?style=flat&logo=vercel&logoColor=black)](https://duraidmustafa.com)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duraidmustafa&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duraidmustafa&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Programmer551&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer551&theme=radical" width="48%" />
 </div>
 
 ---
