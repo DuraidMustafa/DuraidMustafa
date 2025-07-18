@@ -27,7 +27,7 @@ I love working with **Next.js**, **TypeScript**, and **Tailwind CSS**, and belie
 
 ## 🚀 Projects
 
-### 🧠 [CodeCrate](https://github.com/Programmer551/CodeCrate)
+### 🧠 [CodeCrate](https://github.com/DuraidMustafa/CodeCrate)
 > Your personal code snippet vault — searchable, organized, and built with devs in mind.
 
 More projects coming soon...
@@ -37,8 +37,8 @@ More projects coming soon...
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Programmer551&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer551&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DuraidMustafa&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuraidMustafa&theme=radical" width="48%" />
 </div>
 
 ---
