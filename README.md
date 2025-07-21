@@ -38,7 +38,7 @@ More projects coming soon...
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DuraidMustafa&show_icons=true&theme=radical" width="48%" />
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=DuraidMustafa&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=DuraidMustafa&theme=radical&type=svg)
 </div>
 
 ---
