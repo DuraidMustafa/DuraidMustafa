@@ -9,7 +9,7 @@
 
 I'm a full-stack developer who builds things I’d actually use.
 
-Currently focused on creating **CodeCrate** — a snippet management tool for developers.  
+Currently focused on creating **FixItFast** — a competitive, browser-based platform where web developers debug real-world code issues — live.
 I love working with **Next.js**, **TypeScript**, and **Tailwind CSS**, and believe in solving real problems with clean, intentional code.
 
 ---
