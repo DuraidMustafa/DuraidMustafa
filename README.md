@@ -30,6 +30,9 @@ I love working with **Next.js**, **TypeScript**, and **Tailwind CSS**, and belie
 ### 🧠 [CodeCrate](https://github.com/DuraidMustafa/CodeCrate)
 > Your personal code snippet vault — searchable, organized, and built with devs in mind.
 
+### 🧠 [FixItFast](https://github.com/DuraidMustafa/FixItFast)
+> A competitive, browser-based platform where web developers debug real-world code issues — live.
+
 More projects coming soon...
 
 ---
