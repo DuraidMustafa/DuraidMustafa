@@ -9,9 +9,6 @@
 
 I'm a full-stack developer who builds things I’d actually use.
 
-Currently focused on creating **FixItFast** — a competitive, browser-based platform where web developers debug real-world code issues — live.
-I love working with **Next.js**, **TypeScript**, and **Tailwind CSS**, and believe in solving real problems with clean, intentional code.
-
 ---
 
 ## 🔧 Tech Stack
@@ -34,9 +31,6 @@ I love working with **Next.js**, **TypeScript**, and **Tailwind CSS**, and belie
 
 ### 🧠 [CodeCrate](https://github.com/DuraidMustafa/CodeCrate)
 > Your personal code snippet vault — searchable, organized, and built with devs in mind.
-
-### 🧠 [FixItFast](https://github.com/DuraidMustafa/FixItFast)
-> A competitive, browser-based platform where web developers debug real-world code issues — live.
 
 More projects coming soon...
 
