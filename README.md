@@ -7,7 +7,9 @@
 
 ## 🧠 About Me
 
-I'm a full-stack developer who builds things I’d actually use.
+Full Stack web developer skilled in Next.js, TypeScript, and Tailwind CSS. Currently in 11th grade and building
+real-world projects. Eager to contribute to open-source and freelance projects while expanding skills in
+modern web development.
 
 ---
 
