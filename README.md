@@ -1,19 +1,19 @@
-<h1 align="center">Hey 👋, I'm Duraid Mustafa</h1>
+<h1 align="center">Hey, I'm Duraid Mustafa</h1>
 <p align="center">
-  Full-Stack Web Developer · Builder of useful tools · Learning in public
+  Full-Stack Developer
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Full Stack web developer skilled in Next.js, TypeScript, and Tailwind CSS. Currently in 11th grade and building
+Full Stack web developer skilled in Next.js, TypeScript, and Tailwind CSS. Currently working as a freelancer and building
 real-world projects. Eager to contribute to open-source and freelance projects while expanding skills in
-modern web development.
+modern development.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,16 +29,16 @@ modern web development.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🧠 [CodeCrate](https://github.com/DuraidMustafa/CodeCrate)
+### [CodeCrate](https://github.com/DuraidMustafa/CodeCrate)
 > Your personal code snippet vault — searchable, organized, and built with devs in mind.
 
 More projects coming soon...
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DuraidMustafa&show_icons=true&theme=radical" width="48%" />
@@ -47,13 +47,7 @@ More projects coming soon...
 
 ---
 
-## 💭 Philosophy
-
-> *"I build software to solve real problems — not just to ship features."*
-
----
-
-🛠️ Available for freelance projects — full-stack apps, developer tools, or clean UI builds.  
+Available for freelance projects — full-stack apps, developer tools, or clean UI builds.  
 Let’s build something useful.
 
 ---
