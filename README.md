@@ -38,15 +38,6 @@ More projects coming soon...
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuraidMustafa&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=DuraidMustafa&theme=radical" width="48%" />
-</div>
-
----
-
 Available for freelance projects — full-stack apps, developer tools, or clean UI builds.  
 Let’s build something useful.
 
