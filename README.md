@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Duraid Mustafa</h1>
 <p align="center">
-  Full-Stack Developer
+  Full-Stack Engineer
 </p>
 
 ---
 
 ## About Me
 
-Full Stack web developer skilled in Next.js, TypeScript, and Tailwind CSS. Currently working as a freelancer and building
+Full Stack Engineer skilled in Next.js, TypeScript, and Tailwind CSS. Currently working as a freelancer and building
 real-world projects. Eager to contribute to open-source and freelance projects while expanding skills in
 modern development.
 
