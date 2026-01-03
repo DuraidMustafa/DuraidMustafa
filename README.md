@@ -7,7 +7,7 @@
 
 ## About Me
 
-Full Stack Engineer skilled in Next.js, TypeScript, and Tailwind CSS. Currently working as a freelancer and building
+Full Stack Engineer skilled in Next.js, NestJs, TypeScript, PostgresSQL, Supabase and Tailwind CSS. Currently working as a freelancer and building
 real-world projects. Eager to contribute to open-source and freelance projects while expanding skills in
 modern development.
 
@@ -32,13 +32,13 @@ modern development.
 ## Projects
 
 ### [CodeCrate](https://github.com/DuraidMustafa/CodeCrate)
-> Your personal code snippet vault — searchable, organized, and built with devs in mind.
+> Your personal code snippet vault, searchable, organized, and built with devs in mind.
 
 More projects coming soon...
 
 ---
 
-Available for freelance projects — full-stack apps, developer tools, or clean UI builds.  
+Available for freelance full-stack projects.
 Let’s build something useful.
 
 ---
