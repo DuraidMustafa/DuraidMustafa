@@ -2,7 +2,6 @@
 <p align="center">
   Full-Stack Engineer
 </p>
-
 ---
 
 ## About Me
