@@ -7,7 +7,7 @@
 
 ## About Me
 
-Full Stack Engineer skilled in Next.js, NestJs, TypeScript, PostgresSQL, Supabase and Tailwind CSS. Currently working as a freelancer and building
+Full Stack Engineer skilled in Next.js, NestJs, TypeScript, PostgresSQL, Playwright, Supabase and Tailwind CSS. Currently working as a freelancer and building
 real-world projects. Eager to contribute to open-source and freelance projects while expanding skills in
 modern development.
 
@@ -32,7 +32,12 @@ modern development.
 ## Projects
 
 ### [CodeCrate](https://github.com/DuraidMustafa/CodeCrate)
-> Your personal code snippet vault, searchable, organized, and built with devs in mind.
+> A snippet manager built with Next.js, Tailwind, and TypeScript. Features authentication, snippet search, and a user-friendly dashboard. Designed specifically for developers who work alone and want complete control over their code organization.
+
+
+### [Tlyne](https://github.com/DuraidMustafa/Tlyne)
+> Built and deployed a full-stack collaborative project management platform with task workflows, team collaboration, authentication, end-to-end testing, and responsive UI using Next.js, TypeScript, Prisma, PostgreSQL, and Playwright.
+
 
 More projects coming soon...
 
