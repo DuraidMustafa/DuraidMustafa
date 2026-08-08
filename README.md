@@ -35,7 +35,7 @@ modern development.
 > A snippet manager built with Next.js, Tailwind, and TypeScript. Features authentication, snippet search, and a user-friendly dashboard. Designed specifically for developers who work alone and want complete control over their code organization.
 
 
-### [Tlyne]
+### Tlyne
 > Built and deployed a full-stack collaborative project management platform with task workflows, team collaboration, authentication, end-to-end testing, and responsive UI using Next.js, TypeScript, Prisma, PostgreSQL, and Playwright.
 
 
